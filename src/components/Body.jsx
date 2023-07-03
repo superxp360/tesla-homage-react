@@ -36,7 +36,7 @@ export default function Body() {
         <iframe width="560" height="315" src="https://www.youtube.com/embed/azUbCdcAeFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>        
         
         <div className="footer">
-            <a href="https://github.com/superxp360">Code in GitHub</a>
+            <a href="https://tesla-homage-react-kf.web.app/">Code in GitHub</a>
         </div>
         </>
 
